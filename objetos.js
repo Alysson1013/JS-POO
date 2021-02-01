@@ -14,4 +14,6 @@ hulk.duracao = 2.0
 hulk.diretor = 'George Martin'
 hulk.genero = 'Ação e Drama'
 
-console.log(vingadores, hulk)
+var ligaJustiça = new Filme("Liga da Justiça", 2019, "Ação", "Leonardo", ["Tiringa", "Batman"], 1.68)
+
+ligaJustiça.Ficha()
