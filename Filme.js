@@ -24,3 +24,5 @@ class Filme{
         console.log("Fechar X")
     }
 }
+
+module.exports = Filme
